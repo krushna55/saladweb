@@ -156,6 +156,8 @@
   .footer {
     /* flex-direction: row-reverse; */
     gap: 0;
+    margin-inline: 0;
+    padding-inline: 10px;
   }
   .footer-top,
   .footer-bottom {
@@ -172,3 +174,4 @@
     width: 100%;
   }
 }
+
